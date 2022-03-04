@@ -119,7 +119,7 @@ export const PROJECTS = [
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
     links: {
-      site: 'https://festive-heyrovsky-f2336a.netlify.app/manager/bikes',
+      site: 'https://festive-heyrovsky-f2336a.netlify.app/',
       repo: 'https://github.com/arun2516/Bike_Rental_front',
     },
     technologies: [
